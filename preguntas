@@ -1,0 +1,15 @@
+1. ¿Qué ventajas observas en la versión orientada a objetos?
+ 
+La versión orientada a objetos es más organizada y fácil de entender porque separa la información en clases, lo que permite reutilizar el código, mantenerlo mejor y modificar partes específicas sin afectar todo el programa. Además, el encapsulamiento protege los datos y hace que el programa sea más escalable.
+
+2. ¿Qué parte del código resultó más clara o fácil de mantener?
+ 
+La parte más clara y fácil de mantener es la clase Producto, porque concentra los atributos y las operaciones relacionadas con un producto en un solo lugar. Esto hace que el método principal sea más limpio y que cualquier cambio sobre los cálculos o la información del producto se haga en un solo punto del programa.
+
+3. ¿Cómo podrías extender el programa para manejar más productos?
+ 
+Podría extenderse permitiendo que el usuario ingrese la cantidad de productos que desea registrar y creando un arreglo dinámico con ese número, o reemplazando el arreglo fijo por una estructura como un ArrayList para agregar productos sin límite. Esto haría que el programa pueda trabajar con cualquier cantidad de productos.
+
+4. ¿Podrías agregar una clase Tienda que contenga los productos y calcule el total?
+ 
+Sí, se puede crear una clase Tienda que almacene un conjunto de productos y tenga métodos para calcular el total general y mostrar el inventario completo. Esta clase permitiría centralizar la lógica de la tienda y mejorar aún más la organización y modularidad del programa.
